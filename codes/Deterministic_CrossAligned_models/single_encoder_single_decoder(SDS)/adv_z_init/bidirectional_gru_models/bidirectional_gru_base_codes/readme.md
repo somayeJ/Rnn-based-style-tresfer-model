@@ -1,0 +1,1 @@
+To make the data of the two datasets of the same size to investigate its effect on the test losses, compared to upsampled model, to do so there is a need to assign the argument downsampling_train_SDS= True in terminal while training and test
